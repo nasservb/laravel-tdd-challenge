@@ -1,3 +1,8 @@
+
+Book store application developed by TDD method in laravel.
+You can learn TDD by complete this project:
+    -delete controllers and try to implement by test cases.
+
 ## Introduction
 
 You are working on an online bookstore application. You have to finish a few web API methods.
